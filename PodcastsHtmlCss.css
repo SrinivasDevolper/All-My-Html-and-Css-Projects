@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.pod-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 190px;
+    background-size: cover;
+    margin: 1px;
+}
+
+.bg-cardplay {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.pod-mainheading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    padding: 15px;
+}
+
+.puri-image {
+    height: 120px;
+    width: 120px;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.puri-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 6px;
+}
+
+.puri-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+    text-align: center;
+}
+
+.puri-card-style {
+    background-color: #151765;
+    padding-left: 15px;
+    padding: 13px;
+}
+
+.puri-image-card {
+    height: 105px;
+    width: 140px;
+    margin: 4px;
+}
+
+.puri-style-para {
+    color: white;
+    font-family: "Roboto";
+    font-size: 13px;
+    margin: 8px;
+}
+
+.puri-style-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.puri-normal-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 11px;
+}
+
+.puri-normal-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 12px;
+    width: 150px;
+    margin-left: 11px;
+}
+
+.para-normal-second {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 11px;
+}
+
+.button {
+    height: 25px;
+    width: 70px;
+    background-color: #151765;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    border-radius: 20px;
+    font-size: 12px;
+    border-width: 1px;
+}
+
+.button-container {
+    text-align: right;
+}

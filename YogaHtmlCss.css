@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container-image-home {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 118vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.main-heading-home {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    padding: 55px;
+}
+
+.main-image-home {
+    height: 230px;
+    width: 250px;
+}
+
+.main-paragraph-home {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+.button-home-cont {
+    text-align: center;
+    margin: 20px;
+}
+
+.button-home {
+    background-color: #132d84;
+    color: #fad693;
+    font-family: "Roboto";
+    font-size: 12px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    border-width: 0px;
+}
+
+.bg-container-page {
+    background-color: #ffedcb;
+    height: 220vh;
+    text-align: center;
+    background-size: cover;
+}
+
+.image-cont-page {
+    height: 200px;
+    width: 220px;
+    margin-top: 30px;
+}
+
+.main-heading-page {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.card-page-yoga {
+    background-color: #ffe2ab;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 23px;
+    margin-right: 23px;
+    text-align: left;
+    padding: 15px;
+}
+
+.card-image-yoga {
+    height: 90px;
+    width: 100px;
+}
+
+.heading-page {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 17px;
+    margin-left: 13px;
+}
+
+.parragraph-page {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-left: 13px;
+}

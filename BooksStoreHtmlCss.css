@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-card-cont {
+    background-color: #1b1b1b;
+    padding: 20px;
+    height: 120vh;
+    background-size: cover;
+}
+
+.popular-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 26px;
+}
+
+.abdul-kalam-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    width: 100%;
+}
+
+.abdul-kalam-card-image {
+    height: 190px;
+    width: 120px;
+}
+
+.abdul-kalam-card-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.abdul-kalam-heading {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 13px;
+}
+
+.abdul-kalam-card-para {
+    color: #06070d;
+    font-family: "bree Serif";
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 13px;
+    width: 160px;
+}
+
+.abdul-kalam-para {
+    color: #183b56;
+    font-family: Bree Serif;
+    font-size: 10px;
+    margin-left: 13px;
+}
+
+.button-abdul-kalam {
+    height: 35px;
+    width: 90px;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.button-abdul-kalam-cont {
+    margin: 15px;
+}
+
+.Books-cont-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 18px;
+}
+
+.mistake-image-home {
+    height: 130px;
+    width: 90px;
+    margin: 6px;
+}
+
+.mistakes-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+.mistake-para {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    margin-left: 13px;
+}
+
+.harry-image-home {
+    height: 130px;
+    width: 90px;
+    margin: 6px;
+}
+
+.abdul-cont {
+    text-align: center;
+}
+
+.adbul-image {
+    height: 280px;
+    width: 180px;
+}
+
+.abdul-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.abdul-para {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.abdul-para-second {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.button-cont {
+    text-align: center;
+}
+
+.back-cont {
+    height: 34px;
+    width: 60px;
+    font-family: "Roboto";
+    font-size: 14px;
+}
